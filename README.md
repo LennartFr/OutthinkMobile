@@ -5,7 +5,7 @@
 https://appbuilder.ibmcloud.com/
 https://new-console.ng.bluemix.net/mobile/
 
-Tutorial:
-| Using Mobile App Builder| https://console.ng.bluemix.net/docs/services/apiconnect/apic_tutorial.html#apic_tutorial|
+<tr><th>Tutorial</th>
+<tr><td> Using Mobile App Builder<td> https://console.ng.bluemix.net/docs/services/apiconnect/apic_tutorial.html#apic_tutorial</td>
 
 
