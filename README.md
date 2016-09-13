@@ -1,6 +1,7 @@
 # OutthinkMobile
 ##Selecting the most suitable Mobile integration components
 
+<img src="https://developer.ibm.com/bluemix/wp-content/uploads/sites/20/2016/04/1-2.png">
 
 ## 1) Use Mobile App Builder to create a Client App (See previous chart)
 
