@@ -34,6 +34,13 @@ dW articles on this process:
 
 #2) Use MobileFirst Services Starter to create Mobile apps with Bluemix services
  <a href="https://console.ng.bluemix.net/catalog/starters/mobilefirst-services-starter/">Mobile First Services Starter</a> allows you to develop, deploy, and scale server-side JavaScript® apps with ease. The IBM SDK for Node.js™ provides enhanced performance, security, and serviceability.
+ Services included:
+ <ol>
+ <li><a href="">SDK for Node.js</a>
+ <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-client-access/">Mobile Client Access</a>
+ <li><a href="https://console.ng.bluemix.net/catalog/services/push-notifications/">Push Notifications</a>
+ <li><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/">Cloudant NoSWL DB</a>
+ </ol>
  
 #3) Use Watson Developercloud iOS SDK to create Swift mobile apps with IBM Watson Services
  
