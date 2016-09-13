@@ -1,13 +1,12 @@
 # OutthinkMobile
 ##Selecting the most suitable Mobile integration components
 
+###Step 1) Use Mobile App Builder to create a Client App 
 <img src="https://developer.ibm.com/bluemix/wp-content/uploads/sites/20/2016/04/1-2.png">
 
-  1) Use Mobile App Builder to create a Client App 
+Launch <a href="https://new-console.ng.bluemix.net/mobile/"> Modile App Builder</a>
 
-    <a href="https://new-console.ng.bluemix.net/mobile/">Launch Modile App Builder</a>
-
-# 2) Use IBM Mobile Dashboard Store Catalog Backend from https://github.com/ibm-bluemix-mobile-services
+### Step 2) Use IBM Mobile Dashboard Store Catalog Backend from https://github.com/ibm-bluemix-mobile-services
     It uses an API Connect and Node.js runtime with the Cloudant NoSQL DB, Object Storage, Mobile 
     Client Access, Push Notifications, and Mobile Analytics services on Bluemix. 
 
@@ -17,7 +16,7 @@
    This backend has been created to support the new IBM Mobile Dashboard Store Catalog template. It has 
    the ability to browse a list of products and supports the viewing of images for each item in the product list
 
-#3) A step by step description on this link: https://github.com/ibm-bluemix-mobile-services/mobile
+### Step 3) A step by step description on this link: https://github.com/ibm-bluemix-mobile-services/mobile
 
 
 dW articles on this process:
