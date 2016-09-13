@@ -18,6 +18,7 @@
 
 #3) A step by step description on this link: https://github.com/ibm-bluemix-mobile-services/mobile
 
+
 dW articles on this process:
 <table>
 <tr><td>https://developer.ibm.com/bluemix/2016/07/13/bluemix-mobile-creating-store-catalog-app-part1/<td>
