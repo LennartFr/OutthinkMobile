@@ -3,9 +3,9 @@
 
 <img src="https://developer.ibm.com/bluemix/wp-content/uploads/sites/20/2016/04/1-2.png">
 
-## 1) Use Mobile App Builder to create a Client App (See previous chart)
+  1) Use Mobile App Builder to create a Client App 
 
-    [Test Mobile App Builder]: https://www.mozilla.orghttps://new-console.ng.bluemix.net/mobile/
+    <a href="https://new-console.ng.bluemix.net/mobile/">Launch Modile App Builder</a>
 
 # 2) Use IBM Mobile Dashboard Store Catalog Backend from https://github.com/ibm-bluemix-mobile-services
     It uses an API Connect and Node.js runtime with the Cloudant NoSQL DB, Object Storage, Mobile 
