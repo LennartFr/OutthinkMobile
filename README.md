@@ -58,7 +58,7 @@ dW articles on this process:
  <li><a href="">SDK for Node.js</a>
  <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-client-access/">Mobile Client Access</a>
  <li><a href="https://console.ng.bluemix.net/catalog/services/push-notifications/">Push Notifications</a>
- <li><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/">Cloudant NoSWL DB</a>
+ <li><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/">Cloudant NoSQL DB</a>
  </ol>
  
  Additional mobile services on Bluemix:
