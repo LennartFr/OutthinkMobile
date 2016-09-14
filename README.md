@@ -13,7 +13,7 @@ For a tutorial on using the Mobile App Builder, please check <a href="https://co
 
 Launch <a href="https://new-console.ng.bluemix.net/mobile/"> Mobile App Builder</a>
 
-### Step 1.2) Use IBM Mobile Dashboard Store Catalog Backend from https://github.com/ibm-bluemix-mobile-services
+Step 1.2) Use IBM Mobile Dashboard Store Catalog Backend from https://github.com/ibm-bluemix-mobile-services
     It uses an API Connect and Node.js runtime with the Cloudant NoSQL DB, Object Storage, Mobile 
     Client Access, Push Notifications, and Mobile Analytics services on Bluemix. 
 
@@ -23,7 +23,7 @@ Launch <a href="https://new-console.ng.bluemix.net/mobile/"> Mobile App Builder<
    This backend has been created to support the new IBM Mobile Dashboard Store Catalog template. It has 
    the ability to browse a list of products and supports the viewing of images for each item in the product list
 
-### Step 3) A step by step description on this link: https://github.com/ibm-bluemix-mobile-services/mobile
+Step 3) A step by step description on this link: https://github.com/ibm-bluemix-mobile-services/mobile
 
 
 dW articles on this process:
@@ -34,10 +34,6 @@ dW articles on this process:
 <tr><td>https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-core<td>
 </table>
 
-<table>
-<tr><th>Tutorial</th>
-<tr><td> Using Mobile App Builder<td> 
-</table>
 
 #2) Use MobileFirst Services Starter to create Mobile apps with Bluemix services
  <a href="https://console.ng.bluemix.net/catalog/starters/mobilefirst-services-starter/">Mobile First Services Starter</a> allows you to develop, deploy, and scale server-side JavaScript® apps with ease. The IBM SDK for Node.js™ provides enhanced performance, security, and serviceability.
