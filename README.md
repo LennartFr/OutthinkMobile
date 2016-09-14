@@ -13,7 +13,8 @@ For a tutorial on using the Mobile App Builder, please check <a href="https://co
 
 Launch <a href="https://new-console.ng.bluemix.net/mobile/"> Mobile App Builder</a>
 
-Step 1.2) Use IBM Mobile Dashboard Store Catalog Backend from https://github.com/ibm-bluemix-mobile-services
+Step 1) Create the GUI from templates
+Step 2) Use the <a href="https://github.com/ibm-bluemix-mobile-services">IBM Mobile Dashboard Store Catalog Backend</a> 
     It uses an API Connect and Node.js runtime with the Cloudant NoSQL DB, Object Storage, Mobile 
     Client Access, Push Notifications, and Mobile Analytics services on Bluemix. 
 
@@ -23,7 +24,7 @@ Step 1.2) Use IBM Mobile Dashboard Store Catalog Backend from https://github.com
    This backend has been created to support the new IBM Mobile Dashboard Store Catalog template. It has 
    the ability to browse a list of products and supports the viewing of images for each item in the product list
 
-Step 3) A step by step description on this link: https://github.com/ibm-bluemix-mobile-services/mobile
+A step by step description on this link: https://github.com/ibm-bluemix-mobile-services/mobile
 
 
 dW articles on this process:
