@@ -10,7 +10,8 @@ Selecting the best tools for creating cool mobile apps
 <li>Offline First
 <ol>
 <li><a href="https://blog.fogcreek.com/eight-fallacies-of-distributed-computing-tech-talk/">The 8 Fallacies of distributede computing</a>
-<li>Offline first usecas <a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First</a>
+<li>Offline First usecas <a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First</a>
+<li><a href="https://youtu.be/yZuGCrJbIJs">Offline-first apps with PouchDB - Fluent 2016</a>
 <li><a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First 2</a>
 </ol>
 </ol>
