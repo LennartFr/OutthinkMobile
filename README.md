@@ -57,7 +57,6 @@ dW articles on this process:
  <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-foundation/">Mobile Foundation</a>
  </ol>
  
- <img src="http://mobilefoundation-servicebroker.ng.bluemix.net/images/serveroverview.png"><p>
  
 #3) Use Watson Developercloud iOS SDK to create Swift mobile apps with IBM Watson Services
  
