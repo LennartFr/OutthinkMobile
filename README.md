@@ -4,7 +4,7 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 
 Selecting the best tools for creating cool mobile apps
 
-#1) Use the <a href="https://appbuilder.ibmcloud.com/">Mobile App Builder </a> to create catalog apps. 
+# Option 1) Use the <a href="https://appbuilder.ibmcloud.com/">Mobile App Builder </a> to create catalog apps. 
 The Mobile App Builder makes it super easy to quickly create mobile GUIs without coding. You can then connect the user interface to backend data sources, again without coding.  
 
 For a tutorial on using the Mobile App Builder, please check <a href="https://console.ng.bluemix.net/docs/services/apiconnect/apic_tutorial.html#apic_tutorial">this linke<a>
@@ -36,7 +36,7 @@ dW articles on this process:
 </table>
 
 
-#2) Use MobileFirst Services Starter to create Mobile apps with Bluemix services
+# Option 2) Use MobileFirst Services Starter to create Mobile apps with Bluemix services
  
  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29385313710/in/dateposted-public/" title="MobileFirstServicvesStarter"><img src="https://c7.staticflickr.com/9/8095/29385313710_63671ff7d3_z.jpg" width="640" height="239" alt="MobileFirstServicvesStarter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
@@ -57,15 +57,15 @@ dW articles on this process:
  <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-foundation/">Mobile Foundation</a>For more on the Mobile Foundation see under Enterprise Development. 
  </ol>
  
-#3) Use Watson Developercloud iOS SDK to create Swift mobile apps with IBM Watson Services
+# Option 3) Use Watson Developercloud iOS SDK to create Swift mobile apps with IBM Watson Services
  
  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29385375310/in/dateposted-public/" title="Watson Developer Cloud iOS SDK"><img src="https://c7.staticflickr.com/9/8077/29385375310_d21e6e7840_z.jpg" width="640" height="125" alt="Watson Developer Cloud iOS SDK"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
  
-#4) Use Watson Developer Cloud Android SDK to create Java mobile apps with IBM Watson Services
+# Option 4) Use Watson Developer Cloud Android SDK to create Java mobile apps with IBM Watson Services
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29565094272/in/dateposted-public/" title="Watson Developer Cloud Android SDK"><img src="https://c1.staticflickr.com/9/8815/29565094272_bb9f27e775_z.jpg" width="640" height="109" alt="Watson Developer Cloud Android SDK"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-#5) <a href="enterprise.md">Enterprise Mobile Development</a>
+# Option 5) <a href="enterprise.md">Enterprise Mobile Development</a>
 
