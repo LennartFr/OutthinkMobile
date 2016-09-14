@@ -51,7 +51,7 @@ dW articles on this process:
  
 #3) Use Watson Developercloud iOS SDK to create Swift mobile apps with IBM Watson Services
  
- <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29385313710/in/dateposted-public/" title="MobileFirstServicvesStarter"><img src="https://c7.staticflickr.com/9/8095/29385313710_63671ff7d3_z.jpg" width="640" height="239" alt="MobileFirstServicvesStarter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+ <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29385375310/in/dateposted-public/" title="Watson Developer Cloud iOS SDK"><img src="https://c7.staticflickr.com/9/8077/29385375310_d21e6e7840_z.jpg" width="640" height="125" alt="Watson Developer Cloud iOS SDK"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
  
 #4) Use Watson Developer Cloud Android SDK to create Java mobile apps with IBM Watson Services
