@@ -66,7 +66,7 @@ dW articles on this process:
  <ol>
  <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-analytics/">Mobile Analytics</a>
  <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-application-content-manager/">Mobile Application Content Manager</a>
- <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-foundation/">Mobile Foundation</a>For more on the Mobile Foundation see under Enterprise Development. 
+ <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-foundation/">Mobile Foundation </a> For more on the Mobile Foundation see under Enterprise Development. 
  </ol>
  
 # Option 3a) Use Watson Developercloud iOS SDK to create Swift mobile apps with IBM Watson Services
