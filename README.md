@@ -14,6 +14,7 @@ Selecting the best tools for creating cool mobile apps
 <li><a href="https://youtu.be/yZuGCrJbIJs">Offline-first apps with PouchDB - Fluent 2016</a>
 <li><a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First 2</a>
 </ol>
+<li>Cognitive apps using Watson
 </ol>
 
 # Option 1) Use the <a href="https://appbuilder.ibmcloud.com/">Mobile App Builder </a> to create catalog apps. 
