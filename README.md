@@ -54,10 +54,8 @@ dW articles on this process:
  <ol>
  <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-analytics/">Mobile Analytics</a>
  <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-application-content-manager/">Mobile Application Content Manager</a>
- <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-foundation/">Mobile Foundation</a>
+ <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-foundation/">Mobile Foundation</a>For more on the Mobile Foundation see under Enterprise Development. 
  </ol>
- 
- <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29050351724/in/dateposted-public/" title="Mobile Foundation"><img src="https://c5.staticflickr.com/9/8453/29050351724_87ae13bfb6.jpg" width="500" height="271" alt="Mobile Foundation"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
 #3) Use Watson Developercloud iOS SDK to create Swift mobile apps with IBM Watson Services
  
@@ -69,5 +67,5 @@ dW articles on this process:
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29565094272/in/dateposted-public/" title="Watson Developer Cloud Android SDK"><img src="https://c1.staticflickr.com/9/8815/29565094272_bb9f27e775_z.jpg" width="640" height="109" alt="Watson Developer Cloud Android SDK"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-<a href="https://github.com/LennartFr/OutthinkMobile/enterprise.md">Enterprise Mobile Development</a>
+#<a href="https://github.com/LennartFr/OutthinkMobile/enterprise.md">Enterprise Mobile Development</a>
 
