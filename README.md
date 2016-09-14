@@ -55,5 +55,9 @@ dW articles on this process:
  
  
 #4) Use Watson Developer Cloud Android SDK to create Java mobile apps with IBM Watson Services
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29565094272/in/dateposted-public/" title="Watson Developer Cloud Android SDK"><img src="https://c1.staticflickr.com/9/8815/29565094272_bb9f27e775_z.jpg" width="640" height="109" alt="Watson Developer Cloud Android SDK"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29385604150/in/dateposted-public/" title="MobileFirst Platform Foundation"><img src="https://c7.staticflickr.com/9/8217/29385604150_783b031df4_z.jpg" width="640" height="467" alt="MobileFirst Platform Foundation"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
-#5) Use <a href="https://www.ibm.com/support/knowledgecenter/SSNJXP/welcome.html">IBM MobileFirst Platform Foundation </a> to create Enterprise Apps
+#5) Use <a href="https://www.ibm.com/support/knowledgecenter/SSHS8R_8.0.0/wl_welcome.html">IBM MobileFirst Platform Foundation </a> to create Enterprise Apps
