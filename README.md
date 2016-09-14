@@ -4,7 +4,8 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 
 Selecting the best tools for creating cool mobile apps
 
-#1) Use the <a href="https://appbuilder.ibmcloud.com/">Mobile App Builder </a> to create catalog apps. The Mobile App Builder makes it super easy to quickly create mobile GUIs without coding. You can then connect the user interface to backend data sources, again without coding.  
+#1) Use the <a href="https://appbuilder.ibmcloud.com/">Mobile App Builder </a> to create catalog apps. 
+The Mobile App Builder makes it super easy to quickly create mobile GUIs without coding. You can then connect the user interface to backend data sources, again without coding.  
 
 For a tutorial on using the Mobile App Builder, please check <a href="https://console.ng.bluemix.net/docs/services/apiconnect/apic_tutorial.html#apic_tutorial">this linke<a>
 <p>
