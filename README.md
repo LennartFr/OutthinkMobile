@@ -15,12 +15,11 @@ Selecting the best tools for creating cool mobile apps
 <li><a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First 2</a>
 </ol>
 <li>Cognitive apps using Watson
-<li>Mobile and Wearables
-<li>TBD
-<ol>
 <li><a href="https://github.com/watson-developer-cloud/ios-sdk">Watson Developer Cloud iOS SDK</a>
 <li><a href="https://github.com/watson-developer-cloud/speech-android-sdk">Watson Developer Cloud Android SDK</a>
 </ol>
+<li>Mobile and Wearables
+<li>TBD
 </ol>
 
 # Option 1) Use the <a href="https://appbuilder.ibmcloud.com/">Mobile App Builder </a> to create catalog apps. 
