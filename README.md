@@ -13,7 +13,7 @@ For a tutorial on using the Mobile App Builder, please check <a href="https://co
 
 Launch <a href="https://new-console.ng.bluemix.net/mobile/"> Mobile App Builder</a>
 
-Step 1) Create the GUI from templates
+Step 1) Create the GUI from templates<p>
 Step 2) Use the <a href="https://github.com/ibm-bluemix-mobile-services">IBM Mobile Dashboard Store Catalog Backend</a> 
     It uses an API Connect and Node.js runtime with the Cloudant NoSQL DB, Object Storage, Mobile 
     Client Access, Push Notifications, and Mobile Analytics services on Bluemix. 
