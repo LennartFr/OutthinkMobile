@@ -1,11 +1,13 @@
 # OutthinkMobile
 
-The IBM Bluemix cloud ewnvironment provides several mobile technologies and services that can be used for creating mobile apps. This 
-
+The IBM Bluemix cloud ewnvironment provides several mobile technologies and services that can be used for creating mobile apps. This short guide will help mobile app developers select the products that best fit their needs.
 
 Selecting the best tools for creating cool mobile apps
 
-#1) Use Mobile App Builder to create a catalog app 
+#1) Use the <a href="https://appbuilder.ibmcloud.com/">Mobile App Builder </a> to create catalog apps. The Mobile App Builder makes it super easy to quickly create mobile GUIs without coding. You can then connect the user interface to backend data sources, again without coding.  
+
+For a tutorial on using the Mobile App Builder, please check <a href="https://console.ng.bluemix.net/docs/services/apiconnect/apic_tutorial.html#apic_tutorial">this linke<a>
+<p>
 <img src="https://developer.ibm.com/bluemix/wp-content/uploads/sites/20/2016/04/1-2.png">
 
 Launch <a href="https://new-console.ng.bluemix.net/mobile/"> Mobile App Builder</a>
@@ -33,7 +35,7 @@ dW articles on this process:
 
 <table>
 <tr><th>Tutorial</th>
-<tr><td> Using Mobile App Builder<td> https://console.ng.bluemix.net/docs/services/apiconnect/apic_tutorial.html#apic_tutorial</td>
+<tr><td> Using Mobile App Builder<td> 
 </table>
 
 #2) Use MobileFirst Services Starter to create Mobile apps with Bluemix services
