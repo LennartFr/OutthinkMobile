@@ -1,4 +1,8 @@
 # OutthinkMobile
+
+The IBM Bluemix cloud ewnvironment provides several mobile technologies and services that can be used for creating mobile apps. This 
+
+
 Selecting the best tools for creating cool mobile apps
 
 #1) Use Mobile App Builder to create a catalog app 
