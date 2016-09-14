@@ -49,6 +49,13 @@ dW articles on this process:
  <li><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/">Cloudant NoSWL DB</a>
  </ol>
  
+ Additional mobile services on Bluemix:
+ 
+ <a href="https://console.ng.bluemix.net/catalog/services/mobile-analytics/">Mobile Analytics</a>
+ <a href="https://console.ng.bluemix.net/catalog/services/mobile-application-content-manager/">Mobile Application Content Manager</a>
+ <a href="https://console.ng.bluemix.net/catalog/services/mobile-foundation/">Mobile Foundation</a>
+ <img src="http://mobilefoundation-servicebroker.ng.bluemix.net/images/serveroverview.png"><p>
+ 
 #3) Use Watson Developercloud iOS SDK to create Swift mobile apps with IBM Watson Services
  
  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29385375310/in/dateposted-public/" title="Watson Developer Cloud iOS SDK"><img src="https://c7.staticflickr.com/9/8077/29385375310_d21e6e7840_z.jpg" width="640" height="125" alt="Watson Developer Cloud iOS SDK"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
