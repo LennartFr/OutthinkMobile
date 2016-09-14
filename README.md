@@ -4,6 +4,17 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 
 Selecting the best tools for creating cool mobile apps
 
+# Use cases
+
+<ol>
+<li>Offline First
+<ol>
+<li><a href="https://blog.fogcreek.com/eight-fallacies-of-distributed-computing-tech-talk/">The 8 Fallacies of distributede computing</a>
+<li>Offline first usecas <a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First</a>
+<li><a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First 2</a>
+</ol>
+</ol>
+
 # Option 1) Use the <a href="https://appbuilder.ibmcloud.com/">Mobile App Builder </a> to create catalog apps. 
 The Mobile App Builder makes it super easy to quickly create mobile GUIs without coding. You can then connect the user interface to backend data sources, again without coding.  
 
